@@ -17,9 +17,12 @@ To create a dig site at hfK, what would that mean? what type of experience? peop
 
 ## XY Pixel reader 
 
+- go to eletronic workshop see if felix can help me?
 - Have a 2d Axis servo machine with a pixel scanner attached to it.
 - Make the reader go through the clay piece, generating it's sound.
 - Have the audio being processed live from the image data.
+
+![](https://i.imgur.com/IhDbgr3.jpg)
 
 ### Questions
 
@@ -39,6 +42,7 @@ To create a dig site at hfK, what would that mean? what type of experience? peop
 - Data processing?
 - Translation process?
 - Samples?
+- Any references?
 
 ## Infrastructure
 
@@ -47,7 +51,27 @@ To create a dig site at hfK, what would that mean? what type of experience? peop
     - which, how many
 - energy cable
     - from chaos office?
-- 
+- water protection
+
+## Equipment list
+
+- __XY Reader scenario:__
+    - 2/3 headphones
+    - 1 raspberry pi
+    - arduino
+    - light sensor
+    - xy table
+    - computer (depends if it will need to run opencv or not, perhaps rasp can handle it)
+    - protecting case for rasp
+    - power supply rasp
+    - working audio cable spliter 
+
+- __Current software scenario:__
+    - mac tower (in that case I need to let markus know that I will use it)
+    - 2/3 headphones
+    - screen (what screen can be outside, and with which mount?)
+    - protecting box for computer
+    - working audio cable spliter 
 
 ## Text
 
