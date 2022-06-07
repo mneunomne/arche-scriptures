@@ -19,6 +19,8 @@ Those pieces were found that, but then the observer time would be considered the
 
 ## XY Pixel reader 
 
+https://blog.arduino.cc/2017/07/12/building-an-arduino-controlled-single-pixel-scanner/
+
 ![](https://i.imgur.com/IhDbgr3.jpg =500x540)
 
 - go to eletronic workshop see if felix can help me?
