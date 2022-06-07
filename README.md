@@ -31,7 +31,7 @@ Those pieces were found that, but then the observer time would be considered the
 
 - [CNC USB Laser Engraver Plotter Cutter 50x65cm DIY Kit - Frames, Parts, NO LASER](https://de.aliexpress.com/item/32953404222.html?UTABTest=aliabtest276336_383090&_randl_currency=GBP&_randl_shipto=GB&src=google&aff_fcid=74d934fe5f884331b2232efccacc4294-1654554833749-00529-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=74d934fe5f884331b2232efccacc4294-1654554833749-00529-UneMJZVf&terminal_id=64da525b76864eb4b922f7b43c0133d0&OLP=1082700408_f_group0&o_s_id=1082700408&afSmartRedirect=y) _Estimated between Thu, 30 Jun and Thu, 7 Jul to E140AA_
 
-![](https://ae01.alicdn.com/kf/HTB1oj2mXNrvK1RjSszeq6yObFXaf/A3-gr-e-Stift-CNC-Zeichnung-Maschine-Schriftzug-Schreiben-Roboter-Corexy-XY-plotter-F-hrungsschiene-version.jpg_Q90.jpg_.webp =400x400)
+![](https://ae01.alicdn.com/kf/HTB1oj2mXNrvK1RjSszeq6yObFXaf/A3-gr-e-Stift-CNC-Zeichnung-Maschine-Schriftzug-Schreiben-Roboter-Corexy-XY-plotter-F-hrungsschiene-version.jpg_Q90.jpg_.webp)
 
 - [CNC Laser Engraving Machine Kit 65 x 50 cm 2 Axis Milling Machine 12 V Laser Engraving Machine with Offline Controller for Wood Plastic Horns Wallet Phone Shell](https://www.amazon.de/-/en/Engraving-Machine-Milling-Offline-Controller/dp/B0874PXTMJ/ref=sr_1_29?crid=1CJLTWRA8Z8WC&keywords=CNC-Plotter&qid=1654554863&sprefix=cnc%2Bplotter%2Caps%2C86&sr=8-29&th=1) 
 
