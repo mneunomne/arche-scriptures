@@ -55,6 +55,11 @@ https://blog.arduino.cc/2017/07/12/building-an-arduino-controlled-single-pixel-s
         - no delay between arduino and audio software.
         - less confidence of reading.
 
+## Screen
+
+- Suitcase?
+- Rasp Screen
+
 ## Sound
 
 - Understandable?
