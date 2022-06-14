@@ -1,5 +1,7 @@
 # Arche Scriptures (hst version)
 
+![image](https://user-images.githubusercontent.com/4967860/173571863-19c8eaf8-6974-4493-910c-bd9c76ee46e6.png)
+
 To create a dig site at hfK, what would that mean? what type of experience? people would come *as if* something was discovered underneed the soil. I to instigate a thought of memory, understand the present time as the "future past" and what will remain. Which from our voices will be still here, how will they be materialized and entrerpreted? what will become ruin? what will survive? 
 
 Those pieces were found that, but then the observer time would be considered the future? then the pieces should be about the past, not the future, if im making an assumption that they were found at some other time this needs to be clear somehow, that there is not only a speculation on the point of view of the object, but also the observer. Is this another planet? is this some other place? (now that I realized what petra said about the "now").  
